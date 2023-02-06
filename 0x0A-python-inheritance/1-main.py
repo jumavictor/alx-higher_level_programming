@@ -2,7 +2,11 @@
 MyList = __import__('1-my_list').MyList
 
 my_list = MyList()
-my_list.append(7)
+my_list.append(1)
+my_list.append(2)
+my_list.append(4)
+my_list.append(3)
+my_list.append(5)
 # my_list.append('-c')
 # my_list.append('-z')
 # my_list.append('-g')
